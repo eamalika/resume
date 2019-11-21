@@ -1,0 +1,74 @@
+a:hover{
+  color: inherit;
+}
+
+h1, h2, h3{
+  font-family: "Lato";
+}
+
+h2{
+  font-weight: bold;
+  padding-bottom: 3%;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+li{
+  font-family: "Raleway";
+}
+
+p{
+  font-family: "Raleway";
+  font-size: 1rem;
+}
+
+ul{
+  list-style: none;
+  padding-left: 0;
+}
+
+.arrow-up{
+  position: fixed;
+  bottom: 5px;
+  right: 9px;
+  color: #343A40;
+
+}
+
+.arrow-up:hover{
+  color: #494E53;
+}
+
+.btn{
+  margin-top: 10%;
+}
+
+.container{
+  padding: 10% 0 10%;
+}
+
+.contact-link{
+  font-family: "Lato";
+  color: #fff;
+}
+
+.my-photo{
+  padding-bottom: 5%;
+}
+
+#middle-container{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#footer{
+  background-color: #343A40;
+  text-align: center;
+  color: #fff;
+}
